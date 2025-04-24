@@ -41,6 +41,9 @@ export const Navbar = () => {
             >
               Create Community
             </Link>
+            <Link to="/ai-helper"
+             className="text-gray-300 hover:text-white transition-colors"
+            >AI Help</Link>
           </div>
 
           {/* Desktop Auth */}
